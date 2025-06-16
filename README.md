@@ -1,2 +1,3 @@
 # dotcom-demo
-this is my git repository
+this is my first git repository
+author- Riddhi Gindodiya
